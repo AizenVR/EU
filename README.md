@@ -1,4 +1,4 @@
-<h2 align="left">Oi. meu nick e Aizen conhecido como Alerrandro</h2>
+<h2 align="left">Oi, meu nick e Aizen conhecido como Alerrandro</h2>
 
 ###
 

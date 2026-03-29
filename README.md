@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AizenVR.AizenVR&left_color=darkgrey&left_text=V"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AizenVR.AizenVR&left_color=darkgrey&left_text=Views"  />
 </div>
 
 ###

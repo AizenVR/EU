@@ -1,4 +1,4 @@
-<h2 align="left">Oi, meu nick e Aizen conhecido como Alerrandro</h2>
+<h2 align="left">Oi, meu nick e Aizen mais conhecido como Alerrandro</h2>
 
 ###
 
@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AizenVR.AizenVR&left_color=darkgrey&left_text=Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AizenVR.AizenVR&left_color=darkgrey&left_text=V"  />
 </div>
 
 ###
